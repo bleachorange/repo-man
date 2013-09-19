@@ -1,0 +1,55 @@
+Website Requirements
+
+Customer Profile
+	email address
+	username
+	password
+	name
+	address
+	phone number
+	favorites 
+	previously purchased - [ref item name]
+	wishlist
+	shopping cart
+
+Product Information
+	item name
+	in season - y/n
+	price per unit
+	unit of measurement
+	in stock - y/n
+	favorite button - [add reference to item in user favorites]
+
+Services
+	Riding Lessons
+		English/Western
+		Learner Level
+		Timeslots
+		Price
+	Horse Lease
+		Horse Name
+		Price
+		Food?
+		Grooming/Care?
+	Horse Board
+		Indoor/Outdoor
+		Food?
+		Extra Care/Needs
+		Price
+	Riding Time (No Lessons)
+		Price
+		Specific Horse? - [Name]
+		Timeslots
+	Poultry/Fowl?
+	Events/Special Activities?
+
+Other Potential Requirements & Concerns
+	Products/Services must be updateable by business owner through GUI
+	Payment Options? - (security an issue, which 3P vendors?)
+	Shipping? - personal delivery, 3P shipping, onsite pickup, shipping cost estimates
+	Calendar? - updateable (security concerns over public schedule leading to crime)
+	Protect Data How?
+	Email Integration?
+
+
+#these are my initial thoughts on what I would need for a specific website were I to actually build one. I am interested in learning how to build a forum and utilize location services but those are unnecessary for this website. I could add in the functionality and then remove it later, I suppose. However, this would require many more categories of data to be collected.
